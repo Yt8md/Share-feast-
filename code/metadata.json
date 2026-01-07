@@ -1,0 +1,8 @@
+
+{
+  "name": "ShareFeast - Community Sharing Platform",
+  "description": "A compassionate community platform where surplus food, clothes, and essentials are donated to those in need, fostering a spirit of kindness and sustainability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
